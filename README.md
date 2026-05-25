@@ -2,7 +2,7 @@
 
 An AI-powered Financial Complaint Intelligence System built using Python, Streamlit, NLP, and Tableau to analyze consumer financial complaints, identify operational inefficiencies, monitor response delays, and generate actionable business insights through interactive analytics and natural language processing.
 
-# Live Deployed Link: [https://anshika15p-financial-complaint-intelligence-system-app-zynveg.streamlit.app/]
+**Live Deployed Link: [https://anshika15p-financial-complaint-intelligence-system-app-zynveg.streamlit.app/]**
 
 **Project Motivation**
 
