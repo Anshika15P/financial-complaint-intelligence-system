@@ -16,7 +16,7 @@ The project combines exploratory data analysis, NLP-based complaint intelligence
 
 **Project Workflow**
 
-1. *Data Cleaning & Preprocessing*
+1. **Data Cleaning & Preprocessing**
    
 The project began with extensive preprocessing and exploratory data analysis to prepare the dataset for analytical workflows.
 Key preprocessing tasks included:
@@ -26,7 +26,7 @@ Key preprocessing tasks included:
 - Analyzing complaint distribution across products, states, submission channels, and response categories
 - Additional engineered fields were created to support operational analytics and dashboard filtering.
   
-2. *Exploratory Data Analysis (EDA)*
+2. **Exploratory Data Analysis (EDA)**
    
 EDA was performed to understand complaint behavior and operational patterns within the dataset.
 The analysis focused on:
@@ -38,7 +38,7 @@ The analysis focused on:
 - Timely vs delayed response patterns
 These insights helped establish the business intelligence foundation of the project.
 
-3. *NLP-Based Complaint Intelligence*
+3. **NLP-Based Complaint Intelligence**
 
 To enhance the NLP analysis, synthetic complaint narratives were generated using template-based narrative augmentation to simulate customer complaint messages across the dataset.
 The NLP pipeline included:
@@ -62,7 +62,7 @@ The results were **visualized** using:
   
 **Streamlit Dashboard Features**
 The project was deployed as an interactive Streamlit analytical application with four primary modules:
-- *Executive Overview*
+- **Executive Overview**
 Provides high-level operational KPIs including:
     - Total complaints
     - Average response days
@@ -71,20 +71,20 @@ Provides high-level operational KPIs including:
     - Operational alerts
     - Strategic recommendations
   
-- *Operational Analytics*
+- **Operational Analytics**
 Focused on operational monitoring and trend analysis:
     - Monthly complaint trends
     - Top complaint products
     - Average response delay by product category
     - NLP Complaint Intelligence
       
-- *Provides NLP-driven insights using TF-IDF analysis*:
+- **Provides NLP-driven insights using TF-IDF analysis**:
     - Top complaint keywords
     - Complaint word cloud
     - Complaint theme analysis
     - Keyword frequency intelligence
       
-- *Complaint Explorer*
+- **Complaint Explorer**
 An interactive complaint search engine allowing users to:
     - Search complaint narratives using keywords
     - Filter complaints by issue category
